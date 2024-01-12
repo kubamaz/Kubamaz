@@ -1,4 +1,4 @@
-#👋 Welcom to my Github! 
+#Hello👋 Welcom to my Github! 
 I am lua developer and I'm Currently working on my [FiveM server](https://4rdm.pl/).
 
 # 👁️ Github Visits (counting from 12.01.2024)
