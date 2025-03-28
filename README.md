@@ -1,5 +1,5 @@
 # Hello👋 Welcom to my Github! 
-I am a 20-year-old developer from Poland 🇵🇱, currently studying Informatics (yes Informatics not Computer Science) at Lodz University of Technology.
+I am a 20-year-old developer from Poland 🇵🇱, currently studying IT at Lodz University of Technology.
 
 I primarily work with the following technologies:
 
